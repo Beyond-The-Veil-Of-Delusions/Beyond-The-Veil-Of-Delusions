@@ -6,7 +6,13 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/SD-LAB/Desktop/scarymansionnew/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"C:/Users/SD-LAB/Desktop/scarymansionnew/Content/house/house.umap"
+				"C:/Users/SD-LAB/Desktop/scarymansionnew/Content/house/house.umap",
+				"C:/Users/SD-LAB/Desktop/scarymansionnew/Content/VRSpectator/Input/Actions/IA_SmoothMove.uasset",
+				"C:/Users/SD-LAB/Desktop/scarymansionnew/Content/VRSpectator/Input/Actions/IA_SmoothTurn.uasset",
+				"C:/Users/SD-LAB/Desktop/scarymansionnew/Content/VRTemplate/Input/Actions/IA_SmoothMotion.uasset",
+				"C:/Users/SD-LAB/Desktop/scarymansionnew/Content/VRTemplate/Input/Actions/IA_SmoothTurn.uasset",
+				"C:/Users/SD-LAB/Desktop/scarymansionnew/Content/VRTemplate/Input/IMC_Default.uasset",
+				"C:/Users/SD-LAB/Desktop/scarymansionnew/Content/VRTemplate/Blueprints/VRPawn.uasset"
 			]
 		}
 	]
