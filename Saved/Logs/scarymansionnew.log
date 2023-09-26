@@ -5009,3 +5009,154 @@ Script Stack (0 frames) :
 [2023.09.26-13.50.10:323][646]LogSlate: Window 'IA_SmoothMotion' being destroyed
 [2023.09.26-13.50.10:328][646]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
 [2023.09.26-13.50.10:328][646]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.26-13.50.44:140][838]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2023.09.26-13.50.44:140][838]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2023.09.26-13.50.47:410][858]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2023.09.26-13.50.47:410][858]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.26-13.50.47:410][858]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.26-13.51.37:926][495]BlueprintLog: New page: Compile VRPawn
+[2023.09.26-13.51.38:000][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.09.26-13.51.38:623][535]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.26-13.51.38:669][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/VRPawn" FILE="C:/Users/SD-LAB/Desktop/scarymansionnew/Content/VRTemplate/Blueprints/VRPawn.uasset" SILENT=true
+[2023.09.26-13.51.38:726][535]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/VRPawn
+[2023.09.26-13.51.38:727][535]LogSavePackage: Moving 'C:/Users/SD-LAB/Desktop/scarymansionnew/Saved/VRPawn21703BFB4D90D97FA563DBBFEFF69229.tmp' to 'C:/Users/SD-LAB/Desktop/scarymansionnew/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2023.09.26-13.51.38:737][535]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 3.79 sec)
+[2023.09.26-13.51.38:743][535]AssetCheck: New page: Asset Save: VRPawn
+[2023.09.26-13.51.38:743][535]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2023.09.26-13.51.45:094][206]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.09.26-13.51.45:101][206]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.26-13.51.45:101][206]PIE: New page: PIE session: house (26 Sep 2023, 15:51:45)
+[2023.09.26-13.51.45:140][206]LogPlayLevel: Creating play world package: /Game/house/UEDPIE_0_house
+[2023.09.26-13.51.45:157][206]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017414s)
+[2023.09.26-13.51.45:157][206]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/house/house.house to /Game/house/UEDPIE_0_house.house (0.017455s)
+[2023.09.26-13.51.45:157][206]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.26-13.51.45:157][206]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.26-13.51.45:157][206]LogAIModule: Creating AISystem for world house
+[2023.09.26-13.51.45:158][206]LogPlayLevel: PIE: World Init took: (0.000805s)
+[2023.09.26-13.51.45:177][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.09.26-13.51.45:181][206]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2023.09.26-13.51.45:181][206]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.26-13.51.45:181][206]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.26-13.51.45:181][206]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.26-13.51.45:181][206]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.26-13.51.45:181][206]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.26-13.51.45:181][206]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.26-13.51.45:181][206]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.26-13.51.45:181][206]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.26-13.51.45:181][206]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.26-13.51.45:181][206]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.26-13.51.45:181][206]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.26-13.51.45:183][206]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.26-13.51.45:195][206]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.09.26-13.51.45:196][206]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.26-13.51.45:196][206]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.26-13.51.45:196][206]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.26-13.51.45:196][206]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2023.09.26-13.51.45:196][206]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2023.09.26-13.51.45:197][206]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2023.09.26-13.51.45:197][206]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2023.09.26-13.51.45:197][206]LogInit: FAudioDevice initialized with ID 32.
+[2023.09.26-13.51.45:197][206]LogAudio: Display: Audio Device (ID: 32) registered with world 'house'.
+[2023.09.26-13.51.45:197][206]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 32
+[2023.09.26-13.51.45:209][206]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.26-13.51.45:377][206]LogLoad: Game class is 'VRGameMode_C'
+[2023.09.26-13.51.45:388][206]LogWorld: Bringing World /Game/house/UEDPIE_0_house.house up for play (max tick rate 0) at 2023.09.26-14.51.45
+[2023.09.26-13.51.45:388][206]LogWorld: Bringing up level for play took: 0.011058
+[2023.09.26-13.51.45:391][206]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2023.09.26-13.51.45:393][206]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.09.26-13.51.45:395][206]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.09.26-13.51.45:396][206]vr.PixelDensity = "1"
+[2023.09.26-13.51.45:404][206]PIE: Server logged in
+[2023.09.26-13.51.45:410][206]PIE: Play in editor total start time 0,309 seconds.
+[2023.09.26-13.51.45:424][206]LogViewport: Scene viewport resized to 4128x2096, mode Windowed.
+[2023.09.26-13.51.45:550][206]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.09.26-13.52.10:691][274]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.26-13.52.10:691][274]LogWorld: BeginTearingDown for /Game/house/UEDPIE_0_house
+[2023.09.26-13.52.10:770][274]LogSlate: Window 'scarymansionnew Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.09.26-13.52.10:773][274]LogWorld: UWorld::CleanupWorld for house, bSessionEnded=true, bCleanupResources=true
+[2023.09.26-13.52.10:774][274]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.26-13.52.10:777][274]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.26-13.52.10:781][274]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.26-13.52.10:801][274]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.26-13.52.10:801][274]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 32
+[2023.09.26-13.52.10:802][274]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2023.09.26-13.52.10:803][274]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2023.09.26-13.52.10:811][274]LogSlate: Slate User Unregistered.  User Index 8
+[2023.09.26-13.52.10:811][274]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.09.26-13.52.10:812][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.09.26-13.52.10:884][275]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2023.09.26-13.52.29:830][942]BlueprintLog: New page: Compile VRPawn
+[2023.09.26-13.52.29:906][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.09.26-13.52.31:306][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.26-13.52.31:344][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/VRPawn" FILE="C:/Users/SD-LAB/Desktop/scarymansionnew/Content/VRTemplate/Blueprints/VRPawn.uasset" SILENT=true
+[2023.09.26-13.52.31:402][ 66]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/VRPawn
+[2023.09.26-13.52.31:402][ 66]LogSavePackage: Moving 'C:/Users/SD-LAB/Desktop/scarymansionnew/Saved/VRPawnCA3F66E546E9939AFC785DA921C00842.tmp' to 'C:/Users/SD-LAB/Desktop/scarymansionnew/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2023.09.26-13.52.31:412][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 3.90 sec)
+[2023.09.26-13.52.31:417][ 66]AssetCheck: New page: Asset Save: VRPawn
+[2023.09.26-13.52.31:417][ 66]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2023.09.26-13.52.40:143][528]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.09.26-13.52.40:150][528]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.26-13.52.40:150][528]PIE: New page: PIE session: house (26 Sep 2023, 15:52:40)
+[2023.09.26-13.52.40:150][528]LogPlayLevel: Creating play world package: /Game/house/UEDPIE_0_house
+[2023.09.26-13.52.40:167][528]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017128s)
+[2023.09.26-13.52.40:167][528]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/house/house.house to /Game/house/UEDPIE_0_house.house (0.017159s)
+[2023.09.26-13.52.40:167][528]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.26-13.52.40:167][528]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.26-13.52.40:167][528]LogAIModule: Creating AISystem for world house
+[2023.09.26-13.52.40:168][528]LogPlayLevel: PIE: World Init took: (0.000765s)
+[2023.09.26-13.52.40:187][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.09.26-13.52.40:191][528]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2023.09.26-13.52.40:191][528]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.26-13.52.40:191][528]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.26-13.52.40:191][528]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.26-13.52.40:191][528]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.26-13.52.40:191][528]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.26-13.52.40:191][528]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.26-13.52.40:191][528]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.26-13.52.40:191][528]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.26-13.52.40:191][528]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.26-13.52.40:191][528]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.26-13.52.40:191][528]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.26-13.52.40:193][528]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.26-13.52.40:203][528]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.09.26-13.52.40:203][528]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.26-13.52.40:203][528]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.26-13.52.40:203][528]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.26-13.52.40:204][528]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2023.09.26-13.52.40:204][528]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2023.09.26-13.52.40:205][528]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2023.09.26-13.52.40:205][528]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2023.09.26-13.52.40:205][528]LogInit: FAudioDevice initialized with ID 33.
+[2023.09.26-13.52.40:205][528]LogAudio: Display: Audio Device (ID: 33) registered with world 'house'.
+[2023.09.26-13.52.40:205][528]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 33
+[2023.09.26-13.52.40:220][528]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.26-13.52.40:398][528]LogLoad: Game class is 'VRGameMode_C'
+[2023.09.26-13.52.40:408][528]LogWorld: Bringing World /Game/house/UEDPIE_0_house.house up for play (max tick rate 0) at 2023.09.26-14.52.40
+[2023.09.26-13.52.40:409][528]LogWorld: Bringing up level for play took: 0.010799
+[2023.09.26-13.52.40:411][528]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2023.09.26-13.52.40:413][528]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.09.26-13.52.40:415][528]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.09.26-13.52.40:415][528]vr.PixelDensity = "1"
+[2023.09.26-13.52.40:424][528]PIE: Server logged in
+[2023.09.26-13.52.40:430][528]PIE: Play in editor total start time 0,28 seconds.
+[2023.09.26-13.52.40:445][528]LogViewport: Scene viewport resized to 4128x2096, mode Windowed.
+[2023.09.26-13.52.40:528][528]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.09.26-13.52.53:071][219]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.26-13.52.53:071][219]LogWorld: BeginTearingDown for /Game/house/UEDPIE_0_house
+[2023.09.26-13.52.53:208][219]LogSlate: Window 'scarymansionnew Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.09.26-13.52.53:211][219]LogWorld: UWorld::CleanupWorld for house, bSessionEnded=true, bCleanupResources=true
+[2023.09.26-13.52.53:212][219]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.26-13.52.53:215][219]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.26-13.52.53:220][219]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.26-13.52.53:240][219]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.26-13.52.53:241][219]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 33
+[2023.09.26-13.52.53:241][219]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2023.09.26-13.52.53:242][219]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2023.09.26-13.52.53:251][219]LogSlate: Slate User Unregistered.  User Index 8
+[2023.09.26-13.52.53:251][219]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.09.26-13.52.53:253][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.09.26-13.52.53:407][220]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2023.09.26-13.52.56:062][531]LogSlate: Window 'VRPawn' being destroyed
+[2023.09.26-13.52.56:068][531]LogSlate: Window 'VRPawn' being destroyed
+[2023.09.26-13.52.56:073][531]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.09.26-13.52.56:073][531]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
