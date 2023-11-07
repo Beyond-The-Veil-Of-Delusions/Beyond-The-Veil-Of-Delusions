@@ -19,3 +19,6 @@ Saved/AutoScreenshot.png
 Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
 Saved/Config/WindowsEditor/Engine.ini
 Saved/Logs/scarymansionnew.log
+Content/FinalLevels/LEVEL_FIRST.umap
+Content/FinalLevels/BP/FirstTransition.uasset
+Content/FinalLevels/BP/FallingBooks_BP.uasset
